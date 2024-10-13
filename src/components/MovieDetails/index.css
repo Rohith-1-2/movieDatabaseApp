@@ -1,0 +1,24 @@
+.movie-detail-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.movie-poster {
+  width: 100%;
+  height: 350px;
+}
+
+.anchor-styling {
+  text-decoration: none;
+  color: inherit;
+}
+
+.navigation-button {
+  height: 40px;
+  border-radius: 4px;
+  color: #ffffff;
+  background-color: blue;
+  border: none;
+}

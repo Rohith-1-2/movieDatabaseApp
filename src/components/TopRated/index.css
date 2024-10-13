@@ -1,0 +1,6 @@
+.top-rated-unordered{
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
